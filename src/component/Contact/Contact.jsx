@@ -1,8 +1,8 @@
 import { useRef } from "react";
-import "./contact.scss"
 import { motion } from "framer-motion";
 import emailjs from '@emailjs/browser';
 import { useState } from "react";
+import "./Contact.scss"
 
 
 const variants ={
