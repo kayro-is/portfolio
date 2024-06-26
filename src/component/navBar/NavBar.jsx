@@ -15,10 +15,10 @@ const NavBar = () => {
                 Mehadi Khireddine
                 </motion.span>
             <div className="social">
-                <a href="#"><img src="/facebook.png" alt="" /></a>
-                <a href="#"><img src="/instagram.png" alt="" /></a>
-                <a href="#"><img src="/youtube.png" alt="" /></a>
-                <a href="#"><img src="/dribbble.png" alt="" /></a>
+                <a href="https://www.instagram.com/kayro7892?igsh=aG55a3diczRyd3Rw"><img src="/instagram.png" alt="" /></a>
+                <a href="https://www.linkedin.com/in/khireddine-mehadi-6447402a6/"><img src="/linkedin.png" alt="" /></a>
+                <a href="https://www.youtube.com/channel/UCm6WD68K6dSLelxceeVdpTA"><img src="/youtube.png" alt="" /></a>
+                <a href="https://dribbble.com/webdev7806/shots"><img src="/dribbble.png" alt="" /></a>
             </div>
         </div>
     </div>

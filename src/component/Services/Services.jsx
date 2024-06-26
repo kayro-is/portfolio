@@ -33,9 +33,9 @@ import './Services.scss'
           //  animate='animate'
          // whileInView="animate"
          ref={ref}
-         animate={isInView && 'animate'}
+         animate={'animate'}
             >
-                <motion.div className='services'>Services</motion.div>
+               
                 <motion.div className="textContainer"variants={variants}>
                         <p>
                         je m&apos;efforce d&apos;apporter des solutions innovantes 
@@ -43,7 +43,7 @@ import './Services.scss'
                         </p>
                         <hr />
                 </motion.div>
-                <motion.div className="titleContainer" variants={variants}>
+               <motion.div className="titleContainer" variants={variants}>
                     <div className="title">
                         <img src="/people.webp" alt="" />
                         <h1>
