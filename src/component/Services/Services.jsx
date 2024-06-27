@@ -1,6 +1,6 @@
  import { useRef } from 'react'
 import './Services.scss'
- import { animate, color, motion, useInView } from 'framer-motion'
+ import {  motion, useInView } from 'framer-motion'
  
 
  const variants={
@@ -38,8 +38,8 @@ import './Services.scss'
                
                 <motion.div className="textContainer"variants={variants}>
                         <p>
-                        je m&apos;efforce d&apos;apporter des solutions innovantes 
-                        <br />pour soutenir la croissance de votre marque et lui permettre de prospérer
+                        Apporter des solutions innovantes 
+                        <br />pour soutenir la croissance de votre marque 
                         </p>
                         <hr />
                 </motion.div>

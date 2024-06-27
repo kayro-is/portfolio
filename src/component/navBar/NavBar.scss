@@ -28,7 +28,7 @@
             font-weight:bold;
 
             @include mobile{
-                    display: none;
+                    display: none !important;
             }
             @include tablet{
                     display:block;
