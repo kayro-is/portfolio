@@ -33,7 +33,7 @@ const Links = () => {
         "Prestations de service",
         "Portfolio",
         "Contact",
-        "À propos de",
+        
         
     ]
 
